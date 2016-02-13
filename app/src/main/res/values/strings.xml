@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPersonalShopper</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_used_items">UsedItemsActivity</string>
+    <string name="title_activity_new_items">NewItemsActivity</string>
+    <string name="title_activity_connect_to_shopping">ConnectToShoppingActivity</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
